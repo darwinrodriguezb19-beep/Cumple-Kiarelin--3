@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <title>Feliz Cumpleaños, Kiarelin</title>
+  <style>
+    body {
+      background: linear-gradient(135deg, #fceabb, #f8b500);
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      color: #4a2c0a;
+      padding: 30px;
+      max-width: 700px;
+      margin: auto;
+      line-height: 1.6;
+    }
+    h1 {
+      text-align: center;
+      font-size: 3em;
+      margin-bottom: 20px;
+    }
+    p {
+      font-size: 1.1em;
+      margin-bottom: 15px;
+      white-space: pre-line;
+    }
+    .spotify-button {
+      display: block;
+      width: fit-content;
+      margin: 30px auto;
+      padding: 12px 25px;
+      background-color: #1DB954;
+      color: white;
+      font-weight: bold;
+      border-radius: 50px;
+      text-decoration: none;
+      font-size: 1.2em;
+      box-shadow: 0 4px 8px rgba(29, 185, 84, 0.5);
+      transition: background-color 0.3s ease;
+    }
+    .spotify-button:hover {
+      background-color: #1aa34a;
+    }
+  </style>
+</head>
+<body>
+  <h1>Feliz Cumpleaños, Kiarelin</h1>
+
+  <p>Mi querida Kiarelin,</p>
+
+  <p>Hoy es un día que brilla con una luz especial, porque es el día en que llegaste al mundo para llenar de magia y belleza todo a tu alrededor. Quiero que sepas que, aunque ahora no estemos juntos, mi corazón nunca ha dejado de latir por ti, y en este cumpleaños mío deseo más que nunca que sientas lo mucho que te amo y lo importante que eres para mí.</p>
+
+  <p>Cada instante lejos de ti me ha enseñado cuánto vales, cuánto me haces falta y cómo cada recuerdo contigo se convierte en un tesoro que guardo con cariño. A veces duele no poder estar a tu lado, poder abrazarte, mirarte a los ojos y decirte en persona lo que siento, pero sé que la distancia y el tiempo no son más que pruebas que nuestro amor es capaz de superar.</p>
+
+  <p>Kiarelin, quiero que sepas que mi promesa para ti es la de un amor que no se rinde, que no se apaga, sino que crece y se fortalece en cada día que pasa. Te prometo que haré todo lo que esté en mis manos para que pronto volvamos a estar juntos, para que podamos retomar lo nuestro con la pasión y la ternura que nos caracteriza. Quiero que volvamos a compartir risas, sueños, planes y esa complicidad que solo tú y yo entendemos.</p>
+
+  <p>Hoy, en tu cumpleaños, deseo que recibas todo el amor que mereces, que cada sonrisa tuya sea un reflejo de la felicidad que deseo para ti. Eres una persona increíble, llena de luz, bondad y una fuerza que admiro profundamente. Gracias por haber sido mi compañera, mi amiga y el amor de mi vida, por haberme enseñado lo que es amar sin condiciones.</p>
+
+  <p>No importa lo que el destino nos depare, porque mi corazón siempre te pertenece. Aunque ahora caminemos por caminos diferentes, la esperanza de un reencuentro mantiene vivo mi amor por ti. Sueño con el día en que pueda sostener tu mano de nuevo, mirarte y decirte que todo valió la pena, que cada momento de espera fue para construir un amor más fuerte y verdadero.</p>
+
+  <p>Feliz cumpleaños, mi Kiarelin hermosa. Que este día sea tan maravilloso como tú, y que nunca olvides que aquí, desde donde esté, hay alguien que te ama con todo el alma y que sueña con volver a ser parte de tu vida.</p>
+
+  <p>Con todo mi amor y esperanza,<br>Darwin</p>
+
+  <a class="spotify-button" href="https://youtu.be/GW6KlZTy_i4?list=RDGW6KlZTy_i4" target="_blank" rel="noopener noreferrer">
+    Escuchar canción especial en Spotify 🎵
+  </a>
+</body>
+</html>
